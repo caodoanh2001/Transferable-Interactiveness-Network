@@ -1,6 +1,6 @@
 # Transferable-Interactiveness-Network
 
-Dạ thầy vô script/download_dataset.sh để tải Data với mấy file pretrained ạ
+Dạ thầy vô script/download_dataset.sh để tải Data, HICO-DET Evaluation Code với mấy file pretrained ạ
 
 Em chỉ đang làm trên bộ HICO thôi ạ
 
